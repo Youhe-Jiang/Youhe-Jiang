@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Youhe-Jiang
 - 👀 I’m interested in distributed machine learning.
-- 🌱 I’m currently learning dp, mp, pp, sharding, recompute, moe and etc.
+- 🌱 I’m currently learning distributed machine learning and etc.
 - 💞️ I'm going to Cornell University to study for a master's degree.
 - 📫 My current e-mail is youhejiang@gmail.com.
 
