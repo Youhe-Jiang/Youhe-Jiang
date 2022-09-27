@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youhe-Jiang
 - 👀 I’m interested in distributed machine learning.
-- 🌱 I’m currently learning distributed machine learning and etc.
-- 💞️ I'm going to Cornell University to study for a master's degree.
+- 🌱 My current research area is machine learning system.
+- 💞️ I'm going to National University of Singapore as a research assistant.
 - 📫 My current e-mail is youhejiang@gmail.com.
 
 <!---
