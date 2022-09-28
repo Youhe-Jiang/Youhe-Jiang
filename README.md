@@ -3,6 +3,7 @@
 - 🌱 My current research area is machine learning system.
 - 💞️ I'm going to be a research assistant at the National University of Singapore.
 - 📫 My current e-mail is youhejiang@gmail.com.
+- 😄 Welcome to follow our latest work: [OSDP (Optimal Sharded Data Parallel)](https://github.com/Youhe-Jiang/OptimalShardedDataParallel).
 
 <!---
 Youhe-Jiang/Youhe-Jiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
