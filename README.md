@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youhe-Jiang
 - 👀 I’m interested in distributed machine learning.
 - 🌱 My current research area is machine learning system.
-- 💞️ I'm going to be a research assistant at the National University of Singapore.
+- 💞️ I'm going to be a doctoral student of Computer Science at University of Cambridge.
 - 📫 My current e-mail is youhejiang@gmail.com.
 - 😄 Welcome to follow my latest work: [OSDP (Optimal Sharded Data Parallel)](https://github.com/Youhe-Jiang/OptimalShardedDataParallel).
 - 😄 Welcome to follow my latest work: [Galvatron](https://github.com/PKU-DAIR/Hetu/tree/main/tools/Galvatron).
